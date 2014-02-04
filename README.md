@@ -16,8 +16,6 @@ OS X
 Ubuntu 
 ```
  apt-get install imagemagick
- 
- 
 ```
 
 > For different OS check: http://www.imagemagick.org/script/binary-releases.php
